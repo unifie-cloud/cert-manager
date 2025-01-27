@@ -1,5 +1,7 @@
+hardcodedNameSpace: cert-manager
 showVerionsTab: false
 showEnvVarsTab: true
+useRawYaml: true
 allowAutoApplyLimits: false
 name: cert-manager
 title: cert-manager
@@ -9,4 +11,3 @@ tags:
 description: cert-manager
 oneDeploymentPerCluster: true
 notAllowRemoveNamespace: false
-autoAddEnvVarsToDeployments: true
